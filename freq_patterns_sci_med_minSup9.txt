@@ -8547,8 +8547,8 @@ guest	dying	9760	241:9
 408	dying	9760	241:9
 guest	408	dying	9760	241:9
 fred:12
-fred	action:9
 fred	means:9
+fred	action:9
 fred	international:9
 totally:12
 white:12

@@ -2336,8 +2336,8 @@ side:12
 ways:12
 built:12
 kept:12
-kept	lie:9
 kept	hearing:9
+kept	lie:9
 kept	next:10
 thousands:12
 german:12
@@ -2622,9 +2622,9 @@ nyx	du:14
 hearing:14
 hearing	entire:9
 hearing	entire	lie:9
-hearing	wasn:10
 hearing	lie:10
 hearing	lie	wasn:9
+hearing	wasn:10
 year:14
 required:14
 thinks:14
